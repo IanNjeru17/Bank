@@ -9,8 +9,7 @@ function AccountContainer() {
   return (
     
     <div>
-      {/* <Search /> */}
-      {/* <AddTransactionForm /> */}
+     
       <TransactionsList />
     </div>
   );
